@@ -60,15 +60,14 @@ $ roscore
 ```
 
 ### open a new terminal 2
-
-'''
+```
 $ rosrun turtlesim turtlesim_node
-'''
+```
 
 ### open a new terminal 3
-'''
+```
 $ rosrun turtlesim turtle_teleop_key
-'''
+```
 
 
 
